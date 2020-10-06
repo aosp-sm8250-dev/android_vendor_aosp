@@ -24,6 +24,7 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
+    DocumentsUIOverlay \
     FrameworksOverlay \
     SettingsProviderOverlay \
     SystemUIOverlay
