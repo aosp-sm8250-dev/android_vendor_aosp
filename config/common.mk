@@ -29,4 +29,5 @@ PRODUCT_PACKAGES += \
     Launcher3Overlay \
     SettingsOverlay \
     SettingsProviderOverlay \
-    SystemUIOverlay
+    SystemUIOverlay \
+    ThemePickerOverlay
