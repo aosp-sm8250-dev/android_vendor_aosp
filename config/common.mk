@@ -27,5 +27,6 @@ PRODUCT_PACKAGES += \
     DocumentsUIOverlay \
     FrameworksOverlay \
     Launcher3Overlay \
+    SettingsOverlay \
     SettingsProviderOverlay \
     SystemUIOverlay
