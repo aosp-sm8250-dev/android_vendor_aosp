@@ -16,6 +16,7 @@
 -->
 <resources>
     <!-- Display -->
+    <bool name="def_one_handed_mode_enabled">true</bool>
     <bool name="def_screen_brightness_automatic_mode">true</bool>
 
     <!-- Connectivity -->
