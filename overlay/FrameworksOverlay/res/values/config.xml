@@ -186,4 +186,9 @@
 
     <!-- Google Digital Wellbeing -->
     <string name="config_defaultWellbeingPackage" translatable="false">com.google.android.apps.wellbeing</string>
+
+    <!-- Wallpaper cropper package. Used as the default cropper if the active launcher doesn't
+         handle wallpaper cropping.
+    -->
+    <string name="config_wallpaperCropperPackage" translatable="false">com.android.wallpaper</string>
 </resources>
