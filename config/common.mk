@@ -34,3 +34,7 @@ PRODUCT_PACKAGES += \
     SettingsProviderOverlay \
     SystemUIOverlay \
     ThemePickerOverlay
+
+# ThemePicker
+PRODUCT_PACKAGES += \
+    ThemePicker
