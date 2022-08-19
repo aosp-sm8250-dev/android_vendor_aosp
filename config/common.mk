@@ -21,3 +21,9 @@ PRODUCT_PACKAGES += \
 # Messaging
 PRODUCT_PACKAGES += \
     messaging
+
+# Overlays
+PRODUCT_PACKAGES += \
+    FrameworksOverlay \
+    SettingsProviderOverlay \
+    SystemUIOverlay
