@@ -13,6 +13,11 @@ PRODUCT_PACKAGES += \
     LatinIMEGooglePrebuilt
 endif
 
+# LineageOS apps
+PRODUCT_PACKAGES += \
+    Eleven \
+    Jelly
+
 # Messaging
 PRODUCT_PACKAGES += \
     messaging
