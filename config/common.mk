@@ -19,6 +19,7 @@ endif
 # LineageOS apps
 PRODUCT_PACKAGES += \
     Eleven \
+    ExactCalculator \
     Jelly
 
 # Messaging
