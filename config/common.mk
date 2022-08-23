@@ -8,7 +8,7 @@ PRODUCT_COPY_FILES += \
 # GMS
 ifeq ($(WITH_GMS), true)
 $(call inherit-product, vendor/gms/core/core.mk)
-ifneq ($(WITH_GMS_CORE), true)
+ifeq ($(WITH_GMS_CORE), false)
 $(call inherit-product, vendor/gms/extras/extras.mk)
 endif
 
